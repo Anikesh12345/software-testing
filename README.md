@@ -3,7 +3,7 @@
 Personal portfolio website showcasing software testing projects, quality assurance methodologies, manual testing test cases, and web development experience.
 
 ## 🌐 Live Demo
-[View Live Portfolio Site](https://Anikesh12345.github.io/software-testing/)
+[View Live Portfolio Site]([https://Anikesh12345.github.io/software-testing/](https://github.com/Anikesh12345/software-testing.git))
 
 ## 🛠️ Technical Skills & Tools
 - **Testing Methodologies:** Manual Testing, Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, UI Testing, SDLC, STLC
